@@ -11,8 +11,6 @@ namespace _05_Temperature
     {
         public double Fahrenheit;
         public double Celcius;
-        private Unit celcius;
-        private int v;
 
         public Temperature() {
 
